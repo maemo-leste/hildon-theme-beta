@@ -1,0 +1,14 @@
+Source: hildon-theme-beta
+Priority: optional
+Section: themes
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends:
+ debhelper-compat (=12),
+Standards-Version: 4.3.0
+Vcs-Git: https://github.com/maemo-leste/hildon-theme-beta
+Vcs-Browser: https://github.com/maemo-leste/hildon-theme-beta
+
+Package: hildon-theme-beta
+Architecture: all
+Depends: ${misc:Depends}, gtk2-engines-sapwood, hildon-theme-cacher
+Description: Digital Nature Theme.
