@@ -1,3 +1,9 @@
+hildon-theme-beta (8.5) unstable; urgency=medium
+
+  * Initial import from binary package.
+
+ -- Ivan J. <parazyd@dyne.org>  Sat, 08 May 2021 12:55:05 +0200
+
 hildon-theme-beta (8.4+0m5) unstable; urgency=low
 
   * This entry has been added by BIFH queue processor
